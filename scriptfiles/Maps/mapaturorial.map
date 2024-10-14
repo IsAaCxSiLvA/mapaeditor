@@ -1,0 +1,2 @@
+new obejtopre[1];
+obejtopre[0] = CreateObject(1445, 338.9222, -1292.3952, 53.7829, 0.0000, 0.0000, 117.1999); //DYN_FF_STAND

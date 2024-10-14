@@ -1,0 +1,2 @@
+new g_Object[1];
+g_Object[0] = CreateObject(1443, 2379.0412, -1280.7874, 23.6256, 0.0000, 0.0000, 0.0000); //DYN_STREET_SIGN_1
